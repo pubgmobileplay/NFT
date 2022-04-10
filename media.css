@@ -1,0 +1,10 @@
+@media (max-width: 1290px){
+    .nav__div1{
+        column-gap: 1pc;
+    }
+}
+@media (max-width: 1024px){
+    .nav__div3{
+        column-gap: 20px;
+    }
+}
